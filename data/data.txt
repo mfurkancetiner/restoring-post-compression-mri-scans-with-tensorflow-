@@ -1,1 +1,1 @@
-data folder
+data used is from https://biomedic.doc.ic.ac.uk/brain-development/downloads/IXI/
